@@ -1,11 +1,27 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35521.163 d17.12
+VisualStudioVersion = 17.12.35521.163
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DatabaseP6", "DatabaseP6\DatabaseP6.sqlproj", "{2805C914-ADB8-4A30-87B9-A08197E76A2A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database.Context", "Database.Context\Database.Context.csproj", "{D79E1628-05E2-4722-BEAC-6063030036A5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documents", "Documents", "{ECFB057B-58E8-4FB8-80CD-86640BB89349}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\01 - All_Probleme_All_Produit.linq = ..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\01 - All_Probleme_All_Produit.linq
+		..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\02 - All_Problemes_One_Produit_All_Versions.linq = ..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\02 - All_Problemes_One_Produit_All_Versions.linq
+		..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\03 - All_Probleme_One_Produit_One_Version.linq = ..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\03 - All_Probleme_One_Produit_One_Version.linq
+		..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\GlobalError.linq = ..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\GlobalError.linq
+		..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\MCD.pdf = ..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\MCD.pdf
+		..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\QueryDate.linq = ..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\QueryDate.linq
+		..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\QueryKeyword.linq = ..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\QueryKeyword.linq
+		..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\QueryProduct.linq = ..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\QueryProduct.linq
+		..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\QueryStatut.linq = ..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\QueryStatut.linq
+		..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\Requete.json = ..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\Requete.json
+		..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\script.sql = ..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\script.sql
+		..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\Tickets.docx = ..\..\..\OneDrive\Bureau\Soutenance\Projet n°6\Tickets.docx
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
