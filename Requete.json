@@ -1,0 +1,228 @@
+[
+  {
+    "Product": "Trader en herbe",
+    "Version": "1.1",
+    "OS": "Linux",
+    "CreationDate": "2024-01-05T00:00:00Z",
+    "Statut": "En cours",
+    "Description": "L’application se ferme de manière inattendue lors de la tentative de connexion à un compte existant."
+  },
+  {
+    "Product": "Maître des investissements",
+    "Version": "2.1",
+    "OS": "Windows",
+    "CreationDate": "2024-02-18T00:00:00Z",
+    "Statut": "Résolu",
+    "ClosingDate": "2024-02-25T00:00:00Z",
+    "Description": "Graphiques de performance non chargés.",
+    "Resolution": "Correction d’un bug d’API externe de récupération des données boursières."
+  },
+  {
+    "Product": "Planificateur d’Anxiété Sociale",
+    "Version": "1.1",
+    "OS": "Android",
+    "CreationDate": "2024-03-10T00:00:00Z",
+    "Statut": "En cours",
+    "Description": "Les notifications quotidiennes ne se déclenchent pas."
+  },
+  {
+    "Product": "Planificateur d’Entrainement",
+    "Version": "1.1",
+    "OS": "MacOS",
+    "CreationDate": "2024-02-12T00:00:00Z",
+    "Statut": "Résolu",
+    "ClosingDate": "2024-02-28T00:00:00Z",
+    "Description": "Impossible de synchroniser avec l'application mobile.",
+    "Resolution": "Description de jeton expiré corrigé."
+  },
+  {
+    "Product": "Trader en herbe",
+    "Version": "1.2",
+    "OS": "Android",
+    "CreationDate": "2024-04-20T00:00:00Z",
+    "Statut": "Résolu",
+    "ClosingDate": "2024-04-23T00:00:00Z",
+    "Description": "Le bouton \"vendre\" reste inactif.",
+    "Resolution": "Bug UI corrigé dans la dernière mise à jour."
+  },
+  {
+    "Product": "Maître des investissements",
+    "Version": "1.0",
+    "OS": "iOS",
+    "CreationDate": "2024-01-15T00:00:00Z",
+    "Statut": "En cours",
+    "Description": "Le portefeuille ne se met pas à jour après un achat."
+  },
+  {
+    "Product": "Planificateur d’Anxiété Sociale",
+    "Version": "1.0",
+    "OS": "Windows",
+    "CreationDate": "2024-03-07T00:00:00Z",
+    "Statut": "Résolu",
+    "ClosingDate": "2024-03-11T00:00:00Z",
+    "Description": "Écran vide après connexion.",
+    "Resolution": "Rechargement automatique ajouté en cas de réponse vide du serveur."
+  },
+  {
+    "Product": "Planificateur d’Entrainement",
+    "Version": "2.0",
+    "OS": "Android",
+    "CreationDate": "2024-04-18T00:00:00Z",
+    "Statut": "En cours",
+    "Description": "Synchronisation avec montre connectée échoue."
+  },
+  {
+    "Product": "Trader en herbe",
+    "Version": "1.0",
+    "OS": "Windows",
+    "CreationDate": "2024-02-05T00:00:00Z",
+    "Statut": "Résolu",
+    "ClosingDate": "2024-02-12T00:00:00Z",
+    "Description": "Erreur au lancement de l’application sur certaines machines Windows 10.",
+    "Resolution": "Mise à jour du framework .NET requise."
+  },
+  {
+    "Product": "Maître des investissements",
+    "Version": "2.0",
+    "OS": "MacOS",
+    "CreationDate": "2024-03-28T00:00:00Z",
+    "Statut": "Résolu",
+    "ClosingDate": "2024-04-02T00:00:00Z",
+    "Description": "Les favoris ne sont pas enregistrés après fermeture.",
+    "Resolution": "Ajout d’une sauvegarde automatique lors des changements."
+  },
+  {
+    "Product": "Planificateur d’Entrainement",
+    "Version": "1.1",
+    "OS": "iOS",
+    "CreationDate": "2024-04-10T00:00:00Z",
+    "Statut": "En cours",
+    "Description": "Mauvais calcul du total de calories dépensées."
+  },
+  {
+    "Product": "Planificateur d’Anxiété Sociale",
+    "Version": "1.1",
+    "OS": "Windows",
+    "CreationDate": "2024-02-04T00:00:00Z",
+    "Statut": "Résolu",
+    "ClosingDate": "2024-02-10T00:00:00Z",
+    "Description": "Les entrées journalières ne se sauvegardent pas.",
+    "Resolution": "Description de quota disque corrigé."
+  },
+  {
+    "Product": "Trader en herbe",
+    "Version": "1.3",
+    "OS": "Android",
+    "CreationDate": "2024-04-22T00:00:00Z",
+    "Statut": "En cours",
+    "Description": "Erreur de chargement des cotations boursières en temps réel."
+  },
+  {
+    "Product": "Planificateur d’Entrainement",
+    "Version": "1.0",
+    "OS": "Linux",
+    "CreationDate": "2024-03-30T00:00:00Z",
+    "Statut": "En cours",
+    "Description": "Interface graphique non responsive en Resolution 4K."
+  },
+  {
+    "Product": "Maître des investissements",
+    "Version": "2.1",
+    "OS": "Android",
+    "CreationDate": "2024-02-13T00:00:00Z",
+    "Statut": "Résolu",
+    "ClosingDate": "2024-02-16T00:00:00Z",
+    "Description": "Déconnexions fréquentes après inactivité.",
+    "Resolution": "Augmentation du délai de session à 15 minutes."
+  },
+  {
+    "Product": "Trader en herbe",
+    "Version": "1.2",
+    "OS": "Windows Mobile",
+    "CreationDate": "2024-04-01T00:00:00Z",
+    "Statut": "En cours",
+    "Description": "Interface utilisateur décalée."
+  },
+  {
+    "Product": "Planificateur d’Anxiété Sociale",
+    "Version": "1.0",
+    "OS": "MacOS",
+    "CreationDate": "2024-03-21T00:00:00Z",
+    "Statut": "Résolu",
+    "ClosingDate": "2024-03-24T00:00:00Z",
+    "Description": "Le calendrier ne se met pas à jour automatiquement.",
+    "Resolution": "Correctif déployé dans la version 1.1."
+  },
+  {
+    "Product": "Maître des investissements",
+    "Version": "2.1",
+    "OS": "iOS",
+    "CreationDate": "2024-04-17T00:00:00Z",
+    "Statut": "En cours",
+    "Description": "Notification sonore manquante lors d’une alerte d’investissement."
+  },
+  {
+    "Product": "Planificateur d’Entrainement",
+    "Version": "2.0",
+    "OS": "Windows",
+    "CreationDate": "2024-01-08T00:00:00Z",
+    "Statut": "Résolu",
+    "ClosingDate": "2024-01-15T00:00:00Z",
+    "Description": "Affichage incorrect de la progression hebdomadaire.",
+    "Resolution": "Correction de l’algorithme de calcul."
+  },
+  {
+    "Product": "Trader en herbe",
+    "Version": "1.3",
+    "OS": "iOS",
+    "CreationDate": "2024-04-19T00:00:00Z",
+    "Statut": "Résolu",
+    "ClosingDate": "2024-04-21T00:00:00Z",
+    "Description": "Crashes au démarrage après mise à jour iOS 17.",
+    "Resolution": "Patch de compatibilité publié."
+  },
+  {
+    "Product": "Maître des investissements",
+    "Version": "1.0",
+    "OS": "MacOS",
+    "CreationDate": "2024-03-04T00:00:00Z",
+    "Statut": "En cours",
+    "Description": "Impossible de supprimer un compte utilisateur."
+  },
+  {
+    "Product": "Planificateur d’Entrainement",
+    "Version": "1.1",
+    "OS": "Windows Mobile",
+    "CreationDate": "2024-03-25T00:00:00Z",
+    "Statut": "Résolu",
+    "ClosingDate": "2024-03-30T00:00:00Z",
+    "Description": "Application lente à démarrer.",
+    "Resolution": "Optimisation du temps de chargement initial."
+  },
+  {
+    "Product": "Planificateur d’Anxiété Sociale",
+    "Version": "1.1",
+    "OS": "MacOS",
+    "CreationDate": "2024-02-01T00:00:00Z",
+    "Statut": "En cours",
+    "Description": "Plantage lors du chargement des statistiques personnelles."
+  },
+  {
+    "Product": "Trader en herbe",
+    "Version": "1.1",
+    "OS": "MacOS",
+    "CreationDate": "2024-01-14T00:00:00Z",
+    "Statut": "Résolu",
+    "ClosingDate": "2024-01-16T00:00:00Z",
+    "Description": "Connexion impossible avec identifiants valides.",
+    "Resolution": "Correction du module d’authentification."
+  },
+  {
+    "Product": "Maître des investissements",
+    "Version": "2.0",
+    "OS": "Linux",
+    "CreationDate": "2024-02-26T00:00:00Z",
+    "Statut": "En cours",
+    "Description": "Impossible de configurer des alertes de seuil de cours."
+  }
+]
